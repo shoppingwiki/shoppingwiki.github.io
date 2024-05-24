@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "어버이날선물 추천 TOP10 - [10대][남녀] 종근당 녹용홍삼 애니타임 골드, 100ml, 3개"
+title: "면세점향수 추천 TOP10 - [50대][여성] CHANEL Boutique 샤넬 넘버5 100ml (사은품 쇼핑백증정) (당일배송) (무료배송), 1개"
 author: ShoppingWiki
 categories: shopping
 tags: [Top10, shopping]
 pin: true
 ---
 
-> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**어버이날선물**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**면세점향수**](https://link.coupang.com/a/baae76)들을 추천해드리고 있습니다.
 
 <style>
     /* 기본 스타일 */
@@ -60,27 +60,27 @@ pin: true
 <div>
 
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=186577118&traceid=V0-153&itemId=533399123&vendorItemId=4389727853" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=8065142227&traceid=V0-153&itemId=22680690957&vendorItemId=89964908934" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/5202710780922186-fd9f3eb9-c971-4ff8-ad9c-318ba52aea76.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ea99/b6b7370c52566e5c5a94b084c39bf2b4a1684ed789f94a2e70c7ee18a5f8.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        1. 종근당 녹용홍삼 애니타임 골드, 100ml, 3개
+                        1. CHANEL Boutique 샤넬 넘버5 100ml (사은품 쇼핑백증정) (당일배송) (무료배송), 1개
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">56%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,700원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">140,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 466개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=186577118&traceid=V0-153&itemId=533399123&vendorItemId=4389727853" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=8065142227&traceid=V0-153&itemId=22680690957&vendorItemId=89964908934" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -89,27 +89,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7144087856&traceid=V0-153&itemId=17946248483&vendorItemId=81088265815" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7566407536&traceid=V0-153&itemId=19945141370&vendorItemId=82585546533" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/fb8c/5218a5af656ea3737974710000fbf8b5a099786fb783f106f18c7f97a7a4.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/c1f5/3bff4414fe0733abc49cea74f55e6932ed13b539a00bd9834eb9a1910d06.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        2. berryston 카네이션 레터링 머그컵 세트, 2개입, 건강하세요 어머님+아버님 세트
+                        2. 시원한향 시원한향수여성 1 위 승무원 달콤한 향수 여성 향수 오래가는향수 인기향수, 30ml, 1개
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">60%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">19,900원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">28,800원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 158개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 9개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7144087856&traceid=V0-153&itemId=17946248483&vendorItemId=81088265815" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7566407536&traceid=V0-153&itemId=19945141370&vendorItemId=82585546533" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -118,27 +118,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6641056251&traceid=V0-153&itemId=15181053236&vendorItemId=82402320512" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=1175649383&traceid=V0-153&itemId=2334468224&vendorItemId=70331137578" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/284610812775016-5b575087-8d6a-4fc7-a879-c05ad16a426a.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/28031310187738-ae78a342-543b-4a56-a708-d6b98388dc19.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        3. AHC 바이탈 골든 콜라겐 스페셜 기초화장품 스킨케어 5종 세트+쇼핑백, 1세트
+                        3. 아리아나그란데 아리 바이 아리아나 그란데 오드퍼퓸, 50ml, 1개
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">30%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">34,950원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">42,920원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 22536개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 2564개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6641056251&traceid=V0-153&itemId=15181053236&vendorItemId=82402320512" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=1175649383&traceid=V0-153&itemId=2334468224&vendorItemId=70331137578" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -147,27 +147,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=66934000&traceid=V0-153&itemId=224760777&vendorItemId=3546165548" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=345494284&traceid=V0-153&itemId=2554413862&vendorItemId=3002625520" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2522484814959151-daa0319a-4a35-4713-907a-4e213edbbada.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/553846388518663-1cc5596e-f2e5-4348-8b1e-7006394ed1cf.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        4. 종근당 황제 침향단 + 쇼핑백, 225g, 1개
+                        4. 존바바토스 아티산 EDT, 125ml, 1개
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">52%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">55,020원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">42,060원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 12960개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 34408개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=66934000&traceid=V0-153&itemId=224760777&vendorItemId=3546165548" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=345494284&traceid=V0-153&itemId=2554413862&vendorItemId=3002625520" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -176,27 +176,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825549103&traceid=V0-153&itemId=21269048078&vendorItemId=87510273647" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=327033262&traceid=V0-153&itemId=1046526437&vendorItemId=89882537364" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b679/56b67985fa6db8838e9bb26db75a3ed65aa177c5cbb3782effae4c8630d0.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/28a2/1d3be63a112c2de1165a78c05475b385ac17fe3299889a604ee4e00d213f.jpg" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        5. 조은나래 콩고물 도라지정과 선물 세트 80g X 3개입, 사랑박스-예드림(콩고물도라지정과240), 보자기포장(연한빨강), 3개
+                        5. 피오라 러브포이즌 포맨 페로몬 남자향수 오드퍼퓸, 50ml, 1개
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">35,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">48,600원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 82개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 6769개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825549103&traceid=V0-153&itemId=21269048078&vendorItemId=87510273647" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=327033262&traceid=V0-153&itemId=1046526437&vendorItemId=89882537364" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -205,114 +205,27 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=8106925292&traceid=V0-153&itemId=22949761132&vendorItemId=81022946399" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=8070008980&traceid=V0-153&itemId=22712252131&vendorItemId=89690369471" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/378d/0f8e71987efa4c23b51e786259960dc1698fc9f766ca0b3825ec8422e147.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5918/a99d7ee1fb6cd6cbbb3e54d9c6b5ac94f50f312c6b1b76f50360029c596a.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        6. [천마니공식몰] 천마고 스틱 15ml x 30포 + 2포 + 랜덤 3포, 30개
+                        6. 케이니치 어반무드 향수 오드퍼퓸, 100ml, 1개
                     </h3>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">71%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">70,000원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 10개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=8106925292&traceid=V0-153&itemId=22949761132&vendorItemId=81022946399" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6784442984&traceid=V0-153&itemId=15966239256&vendorItemId=83172443504" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/635b/9b62f1d8b97ecfcf6db02ca175689979fdb86c956106ca759b25a255e34c.png" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        7. 이벤트용 시들지않는 안개꽃다발, 핑크, 1개
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">66%</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">36,530원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1548개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6784442984&traceid=V0-153&itemId=15966239256&vendorItemId=83172443504" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2258864624&traceid=V0-153&itemId=3868413113&vendorItemId=88418721028" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1d36/cc4204911ff4c09551b7c4ae39008b2e7dd382f58bde9beaee5fa69090fe.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        8. 24K 카네이션 글자받침 사랑합니다, 사랑합니다 건강하세요, 1개
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">3%</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">59,660원</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 별점: 4.5
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 265개
-                    </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=2258864624&traceid=V0-153&itemId=3868413113&vendorItemId=88418721028" target="_blank" style="display: inline-block; padding: 10px 20px; 
-                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
-                        [상품 더보기]
-                    </a>
-                </div>
-            </a>
-        </div>
-        
-        <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825549103&traceid=V0-153&itemId=21269048083&vendorItemId=87510273565" target="_blank" style="text-decoration: none; color: inherit;">
-                <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/0f44/e5fa15abed5dacc03ed166c67b48a698d1d42eb30116e6b096376659a953.jpg" width="300" height="300" style="object-fit: cover;">
-                </div>
-                <div style="margin-left: 20px; text-align: left; flex: 1;">
-                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        9. 조은나래 콩고물 도라지정과 선물 세트 80g X 3개입, 사랑박스-예드림(콩고물도라지정과240), 보자기포장(연한파랑), 3개
-                    </h3>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">79%</span>
-                    </p>
-                    <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">35,000원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">90,000원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 5.0
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 82개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 4개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7825549103&traceid=V0-153&itemId=21269048083&vendorItemId=87510273565" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=8070008980&traceid=V0-153&itemId=22712252131&vendorItemId=89690369471" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
@@ -321,27 +234,114 @@ pin: true
         </div>
         
         <div class="product-container product-box">
-            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7501506065&traceid=V0-153&itemId=21498313423&vendorItemId=89170727409" target="_blank" style="text-decoration: none; color: inherit;">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=330371980&traceid=V0-153&itemId=1055934492&vendorItemId=5528363272" target="_blank" style="text-decoration: none; color: inherit;">
                 <div style="flex-shrink: 0; text-align: left;">
-                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/916417012786031-d32ef597-77cf-4d26-a8a2-7270f871dbfa.jpg" width="300" height="300" style="object-fit: cover;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/9517602518583335-c1442f85-aad9-4c58-9282-e1cd4f76eccf.png" width="300" height="300" style="object-fit: cover;">
                 </div>
                 <div style="margin-left: 20px; text-align: left; flex: 1;">
                     <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
-                        10. 뷰티풀데코센스 시들지 않는 생화 프리저브드 꽃다발 + 쇼핑백, 핑크
+                        7. 랑방 모던 30ml + 모던 미니 4.5ml + 쇼핑백 세트, 1세트
                     </h3>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">30%</span>
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">66%</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">22,880원</span>
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">31,530원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 640개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=330371980&traceid=V0-153&itemId=1055934492&vendorItemId=5528363272" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=1499510676&traceid=V0-153&itemId=305440&vendorItemId=77270588715" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/5400/74ee4185eebc1028232935d22e482c5650b84f2d768550d18e617fdc33a4.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        8. 베르사체 에로스 EDT, 100ml, 1개
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">3%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">68,700원</span>
                     </p>
                     <p style="line-height: 1; color: #555;">
                         <span style="color: #4169E1;">★</span> 별점: 4.5
                     </p>
                     <p style="line-height: 1; color: #555;">
-                        <span style="color: #4169E1;">★</span> 리뷰수: 1108개
+                        <span style="color: #4169E1;">★</span> 리뷰수: 7857개
                     </p>
-                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=7501506065&traceid=V0-153&itemId=21498313423&vendorItemId=89170727409" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=1499510676&traceid=V0-153&itemId=305440&vendorItemId=77270588715" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6595227351&traceid=V0-153&itemId=18578584621&vendorItemId=85715320106" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1cfe/37a2553377c2ed98a17fa355575ec18847d2070e11bc3a78c167d87965b1.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        9. 조말론 잉글리쉬 페어 앤 프리지아 코롱, 100ml, 1개
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">79%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">114,410원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 253개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6595227351&traceid=V0-153&itemId=18578584621&vendorItemId=85715320106" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6750179374&traceid=V0-153&itemId=15785209252&vendorItemId=89494410754" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/41db/938e75ee26a8c7c0c237bb45be6069157f4de1b9a3daad8170bba68be105.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10. [삘로스] 여자들이 좋아하는 남자향수1위 남자 선물 추천 50대 향수 페르몬남자항수 오래가는 남자향수 지속향수 sex pheromone for men sexy perfume, 50ml, [젠틀한 프리미엄 향수] 디아르망 페로몬향수 남성용
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">30%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">48,000원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 261개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF5964186&subid=githubcoopang&pageKey=6750179374&traceid=V0-153&itemId=15785209252&vendorItemId=89494410754" target="_blank" style="display: inline-block; padding: 10px 20px; 
                     background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
                         [상품 더보기]
                     </a>
